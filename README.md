@@ -1,2 +1,2 @@
 # hello-world
-Sample testing repo
+Testing my initial repo in GIT
